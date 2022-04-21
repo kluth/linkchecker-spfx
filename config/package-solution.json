@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "linkchecker-spfx-client-side-solution",
+    "id": "df4d4277-35dc-4f74-8c5e-973a171c2a1a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "linkchecker-spfx description"
+      },
+      "longDescription": {
+        "default": "linkchecker-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/linkchecker-spfx.sppkg"
+  }
+}

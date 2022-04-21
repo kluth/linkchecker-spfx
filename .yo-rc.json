@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "linkchecker-spfx",
+    "libraryId": "df4d4277-35dc-4f74-8c5e-973a171c2a1a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "linkchecker-spfx",
+    "solutionShortDescription": "linkchecker-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}

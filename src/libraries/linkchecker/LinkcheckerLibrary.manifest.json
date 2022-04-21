@@ -1,0 +1,9 @@
+{
+  "id": "1f80020d-7377-4e97-bc79-7bf05fc6c2dc",
+  "alias": "LinkcheckerLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
